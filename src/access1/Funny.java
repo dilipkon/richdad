@@ -6,6 +6,8 @@ public	String name="dilip";
 public	 int id=23;
 public		 void mm() {
 		System.out.println("kingmaker");
+		
+		System.out.println("money is utimate");
 	}
 	
 	
